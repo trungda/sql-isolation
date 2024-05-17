@@ -1,2 +1,2 @@
 # SQL Isolation Levels
-This repo contains compares and constrasts isolation levels across different databases.
+This repo tries to explain SQL isolation levels from different databases using simple examples.
